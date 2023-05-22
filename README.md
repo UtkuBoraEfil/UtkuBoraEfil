@@ -1,4 +1,3 @@
-### Hi there 👋
 ## Utku Bora Efil
 ### Cankaya University
 
