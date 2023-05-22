@@ -1,4 +1,10 @@
 ### Hi there 👋
+## Utku Bora Efil
+### Cankaya University
+
+```javascipt
+console.log("selam");
+```
 
 <!--
 **UtkuBoraEfil/UtkuBoraEfil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
